@@ -1,4 +1,8 @@
-## Hi there 👋
+# GitHub de David Peña Águila
+
+### Estudiante de Ingeniería informática en la Universidad de Jaén
+
+![](https://diariodigital.ujaen.es/sites/default/files/imagen/2023-08/np_foto_vista_campus_Las_Lagunillas.jpg)
 
 <!--
 **dpa00021/dpa00021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
